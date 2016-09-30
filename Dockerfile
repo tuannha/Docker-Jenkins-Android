@@ -1,8 +1,10 @@
+# Cloned from https://github.com/10imaging/jenkins-android 
+# Some small changes to update JDK, Android SDK, and Gradle
+
 # Set the base image to Ubuntu
 FROM ubuntu:14.04
 
 # File Author / Maintainer
-# clone from https://github.com/10imaging/jenkins-android
 MAINTAINER nhatuan
 
 # patch to latest
